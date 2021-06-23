@@ -1,21 +1,8 @@
-### Hi I'm Roberth 👋
-### 🔭 I’m currently working on language C and python programming 
-### 🌱 I’m currently learning about Language C, python and others technologies, like git, linux scripting shell, etc.
-### 😄 Computer, networking, telecommunications and technology lover.
 
 <img src="https://github.com/AlisonQuinter17/AlisonQuinter17/raw/master/multimedia/new.gif" style="max-width:100%;">
 
 [![Roberth's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobARC&show_icons=true&theme=dark)](https://github.com/RobARC/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobARC&langs_count=5&layout=compact&theme=dark)](https://github.com/RobARC/github-readme-stats)
-
-<a href="https://github.com/RobARC/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RobARC&show_icons=true&theme=dark)](https://github.com/RobARC/github-readme-stats" />
-</a>
-<a href="https://github.com/RobARC/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobARC&langs_count=5&layout=compact&theme=dark)](https://github.com/RobARC/github-readme-stats" />
-</a>
-
 
 You can find me:
 - [LinkedIn](https://www.linkedin.com/in/roberth-rondon/)
