@@ -7,7 +7,7 @@
 [![Roberth's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobARC&show_icons=true&theme=dark)](https://github.com/RobARC/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobARC&langs_count=5&layout=compact&theme=dark)](https://github.com/RobARC/github-readme-stats)
 
-<img src='https://m.gifmania.com/Gif-Animados-Tecnologia/Imagenes-Electricidad/Corriente-Electrica-83644.gif' width="1280px" height="65px"/>
+<img src='https://i.imgur.com/SGqMhq0.gif' width="1280px" height="65px"/>
 
 
 
